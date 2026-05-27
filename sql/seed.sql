@@ -1,0 +1,16 @@
+INSERT INTO employees (name, department, role, salary, location, joined_at) VALUES
+('Alice Johnson', 'Engineering', 'Senior Software Engineer', 120000.00, 'New York', '2020-01-15'),
+('Bob Smith', 'Engineering', 'Backend Developer', 95000.00, 'San Francisco', '2021-03-22'),
+('Charlie Davis', 'Engineering', 'Frontend Developer', 90000.00, 'Mumbai', '2022-06-10'),
+('Diana Prince', 'Engineering', 'Engineering Manager', 150000.00, 'New York', '2018-11-05'),
+('Ethan Hunt', 'Sales', 'Account Executive', 80000.00, 'London', '2019-08-12'),
+('Fiona Glenanne', 'Sales', 'Sales Director', 130000.00, 'London', '2017-04-30'),
+('George Costanza', 'HR', 'HR Specialist', 60000.00, 'New York', '2021-09-18'),
+('Hannah Abbott', 'HR', 'Recruiter', 65000.00, 'Mumbai', '2022-02-14'),
+('Ian Wright', 'Marketing', 'SEO Specialist', 75000.00, 'Berlin', '2020-10-01'),
+('Julia Roberts', 'Marketing', 'Marketing Manager', 110000.00, 'Berlin', '2016-07-20'),
+('Kevin Hart', 'Finance', 'Financial Analyst', 85000.00, 'San Francisco', '2021-12-05'),
+('Laura Palmer', 'Finance', 'CFO', 180000.00, 'New York', '2015-03-11'),
+('Mike Ross', 'Legal', 'Associate', 110000.00, 'New York', '2022-01-20'),
+('Nina Simone', 'Legal', 'General Counsel', 160000.00, 'London', '2014-05-25'),
+('Oscar Isaac', 'Engineering', 'DevOps Engineer', 115000.00, 'Mumbai', '2023-03-12');
